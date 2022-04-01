@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: N8N01
-    url: https://faunt-n8n.scriptbased.cloud/
+    url: 
   - name: Nextcloud
-    url: https://office.scryptbased.cloud/
+    url: 
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
