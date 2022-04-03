@@ -1,42 +1,42 @@
 [
   {
     "name": "app-srv01",
-    "url": "https://app-srv01.scriptbased.cloud",
-    "icon": "https://favicons.githubusercontent.com/app-srv01.scriptbased.cloud",
+    "url": "116.203.202.135",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app-srv01",
-    "status": "down",
-    "uptime": "3.47%",
-    "uptimeDay": "3.47%",
-    "uptimeWeek": "3.47%",
-    "uptimeMonth": "3.47%",
-    "uptimeYear": "3.47%",
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 208
     }
   },
   {
     "name": "proxy01",
-    "url": "proxy01.scriptbased.cloud",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://proxy01.scriptbased.cloud",
+    "icon": "https://favicons.githubusercontent.com/proxy01.scriptbased.cloud",
     "slug": "proxy01",
     "status": "down",
-    "uptime": "13.61%",
-    "uptimeDay": "13.61%",
-    "uptimeWeek": "13.61%",
-    "uptimeMonth": "13.61%",
-    "uptimeYear": "13.61%",
-    "time": 658,
-    "timeDay": 658,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 597,
+    "timeDay": 597,
+    "timeWeek": 597,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 208
     }
   }
 ]
