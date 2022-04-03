@@ -1,4 +1,4 @@
-# [📈 Live Status](https://faunt-status.scriptbased.cloud): <!--live status--> **🟩 All systems operational**
+# [📈 Scriptbased.cloud Live Status](https://cloud-status.scriptbased.cloud): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/patrickc-sb/uptime-status/workflows/Uptime%20CI/badge.svg)](https://github.com/patrickc-sb/uptime-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/patrickc-sb/uptime-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/patrickc-sb/uptime-status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -20,7 +20,7 @@
 
 <!--end: status pages-->
 
-[**Visit status website →**](https://faunt-status.scriptbased.cloud)
+[**Visit status website →**](https://cloud-status.scriptbased.cloud)
 
 ## 📄 License
 
