@@ -8,6 +8,10 @@ sites:
     check: "tcp-ping"
   - name: proxy01
     url: https://proxy01.scriptbased.cloud
+    expectedStatusCodes:
+      - 401
+  - name: Faunt N8N
+    url: $FAUNT_N8N
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
