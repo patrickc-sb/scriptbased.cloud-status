@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app-srv01",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -24,18 +24,19 @@
     "url": "https://proxy01.scriptbased.cloud",
     "icon": "https://favicons.githubusercontent.com/proxy01.scriptbased.cloud",
     "slug": "proxy01",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
     "time": 533,
     "timeDay": 453,
     "timeWeek": 537,
     "timeMonth": 533,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2022-04-15": 0,
       "2022-04-03": 223
     }
   },
@@ -44,7 +45,7 @@
     "url": "$FAUNT_N8N",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "faunt-n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +56,8 @@
     "timeWeek": 514,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-15": 0
+    }
   }
 ]
